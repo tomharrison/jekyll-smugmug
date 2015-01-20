@@ -1,5 +1,4 @@
 # Smugmug Jekyll Plugin
-By [Tom Harrison](http://www.thetomharrison.com)
 
 ![Travis CI build status](https://api.travis-ci.org/tomharrison/jekyll-smugmug.png)
 
